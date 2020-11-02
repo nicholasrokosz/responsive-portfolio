@@ -1,15 +1,11 @@
 body {
-    background-color: lightblue;
+    background-color: lightgray;
 }
 
 .container {
     margin-top: 5rem;
 }
 
-/* h1 {
-    border-bottom: 2px dotted cyan;
-} */
-
 hr {
-    background-color: lightcoral;
+    background-color: #08F;
 }
